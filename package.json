@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker-backend",
   "version": "1.0.0",
-
+  "type": "module",
   "main": "server.js",
   "engines": {
     "node": "20.x"
